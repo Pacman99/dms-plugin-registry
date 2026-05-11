@@ -708,12 +708,12 @@
     "url": "https://github.com/titeya/dms-claudecode"
   },
   "clipboardPlus": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -737,12 +737,12 @@
       "path": "ClipboardPlus",
       "repo": "https://github.com/Dadangdut33/dms-plugins",
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/ClipboardPlus/preview/preview-blur.png",
-      "version": "1.0.7"
+      "version": "1.1.0"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "codexBar": {
@@ -2018,12 +2018,12 @@
     "url": "https://github.com/LouisKottmann/dms-pass"
   },
   "dmsScreenshot": {
-    "date": "2026-04-25T13:03:05+05:30",
+    "date": "2026-05-10T19:34:41+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-bOxndJxjAqSvEohwWRphEc7/7ZTMN+t8dq9Mbliabv8=",
+    "hash": "sha256-Vf2J5Gmb/gyMDC9YhU4cxqSqPTbJR5WXdOheKssL8qw=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2055,12 +2055,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Screenshot/refs/heads/main/assets/Dank-Bar_Widget.png",
       "settings": "./Settings.qml",
       "type": "widget",
-      "version": "1.3.0"
+      "version": "1.5.0"
     },
-    "path": "/nix/store/xxz4rs0lpq21iwva3xbnp10ihs1b3s7w-DMS-Screenshot",
-    "rev": "a2816cd2c7fd6907b5c57fa37fb56175b42c6f14",
+    "path": "/nix/store/zz53rbzv56rkjhnwi6vpxj451xdpvi67-DMS-Screenshot",
+    "rev": "f40deaf839b6e45feb978fa83a28c3db117b3c87",
     "rootDir": "",
-    "sha256": "1zvfk9c6wk5gfryfndycjknzzkhic4d5jw482aps80k3kis6gv3c",
+    "sha256": "1b7j1g5jlpp8fjbraiy96qysm9663i78an1g1j60rzlvd7j8kzam",
     "url": "https://github.com/JDKamalakar/DMS-Screenshot"
   },
   "dmsSessionizer": {
@@ -2404,12 +2404,12 @@
     "url": "https://github.com/Incognitux/dms-format-color-picker"
   },
   "fullscreenPowerMenu": {
-    "date": "2026-04-28T22:49:46+05:30",
+    "date": "2026-05-10T17:29:32+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-KtiJoBe0ajbnOtCbNC6iqkbOvSHk7IYFQ2GdAlj5AnU=",
+    "hash": "sha256-xiImowsZMolKoTeS6x+o2YBhhZtEDn5bpCVk/y9+Qxk=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2441,12 +2441,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Fullscreen_Power_Menu/refs/heads/main/assets/Main_UI.png",
       "settings": "./PowerMenuSettings.qml",
       "type": "daemon",
-      "version": "1.0.3"
+      "version": "1.0.5"
     },
-    "path": "/nix/store/frdps1bpxav2cnryb3lcbr36b6zw581a-DMS-Fullscreen_Power_Menu",
-    "rev": "613c7b6a757994e1937fbfaa75004512113223f7",
+    "path": "/nix/store/0k7niw48wffhpm8j6f6ybg6grqav5wsi-DMS-Fullscreen_Power_Menu",
+    "rev": "a4447e824472abf5c63b8a3511b4da823072f076",
     "rootDir": "",
-    "sha256": "0x82z5c057b18c2qdv7446ywwimal8p396yh7bkkcsml2yh8kn1a",
+    "sha256": "06a3gqpzyr15lidpw3j4kf2n306rm0gyp4ipl558jchr1fijc8n6",
     "url": "https://github.com/JDKamalakar/DMS-Fullscreen_Power_Menu"
   },
   "gameControllerBattery": {
@@ -2976,12 +2976,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-04-25T13:04:57+05:30",
+    "date": "2026-05-10T19:48:30+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-AswjaXCVSJ/mpSZU/jjv1av+WOipP1oVkyn/tcsiSk8=",
+    "hash": "sha256-rbdOSm+3+V/o2ApZC/uuv8SDUoEKE/UOgXuvzahuK+c=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -3014,12 +3014,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./LiveChartSettings.qml",
       "type": "widget",
-      "version": "1.1.1"
+      "version": "1.1.4"
     },
-    "path": "/nix/store/lgg8mg9p4kdg1nbkpidvmskfdn1xl831-DMS-LiveChart.me",
-    "rev": "8a31b57848476c9f0dd32ae20190465f7ade6fbb",
+    "path": "/nix/store/mfgiap0z5m1wi2h6i06qjqvw4ayarx8v-DMS-LiveChart.me",
+    "rev": "5894a50676cd33e2b7e09aec7a2fc610fcb7f660",
     "rootDir": "",
-    "sha256": "0ksa4b5vbzr9jcamlgx9x1cgxaymxwwgwm16lpk9yj4mf1lj7k02",
+    "sha256": "1rrbdslcvbvvh47ga4qah5987i5zmvxhnn8av3l5zydpdx54xdxd",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "lyricsOnPanel": {
@@ -3343,12 +3343,12 @@
     "url": "https://github.com/AC17dollars/dms-nepali-calendar"
   },
   "netbirdStatus": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -3373,10 +3373,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/NetbirdStatus/preview/widget.png",
       "version": "1.0.0"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "nextBootSelector": {
@@ -4022,12 +4022,12 @@
     "url": "https://github.com/lpv11/dms-hypr-show-desktop"
   },
   "simpleAudioControl": {
-    "date": "2026-05-10T01:22:04+07:00",
+    "date": "2026-05-11T02:35:30+07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-qVOvrzPyCyxjbOudxelXocG4rEtwauHH6WLrF8cUJW0=",
+    "hash": "sha256-QTzVS4L6TzleHZv93j5hBB4uFoYmLVLXhkmftDIyyUM=",
     "leaveDotGit": false,
     "meta": {
       "author": "Dadangdut33",
@@ -4050,10 +4050,10 @@
       "screenshot": "https://raw.githubusercontent.com/Dadangdut33/dms-plugins/master/SimpleAudioControl/preview/tab-1.png",
       "version": "1.0.4"
     },
-    "path": "/nix/store/gvw0hyhkhjkw8vck4vh413b0il56g1lm-dms-plugins",
-    "rev": "119dc3118c4c86cf53f54071bf794d5ffa13aaf6",
+    "path": "/nix/store/jy0m4hbk298rarz8s1ghr5g13hd068z5-dms-plugins",
+    "rev": "9cd910ff83f68f40d6a2c10d5f1ad5953645f181",
     "rootDir": "",
-    "sha256": "0v952k3igsv2x73y2skh9fnbihd1azlwb7gbdiijq2zj6fpsylx9",
+    "sha256": "0hy968rb97s9hvbm4b96hqb2w7h4c4zdxzcv3mg3jkzsh95xag21",
     "url": "https://github.com/Dadangdut33/dms-plugins"
   },
   "sshConnections": {
@@ -4718,12 +4718,12 @@
     "url": "https://github.com/lucyfire/dms-plugins"
   },
   "wallpaperShufflerPlugin": {
-    "date": "2026-03-12T20:53:22+08:00",
+    "date": "2026-05-10T20:33:06+08:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lOtFoF8BPqaDrSoDzqGzO7aSro/dATiatVxFp4sdeqA=",
+    "hash": "sha256-kwG9W3MG/Ex669MpSdY4sF063UQz5GeZUcoeIRh/fgo=",
     "leaveDotGit": false,
     "meta": {
       "author": "Daniel-42-z",
@@ -4745,10 +4745,10 @@
       "screenshot": "https://raw.githubusercontent.com/Daniel-42-z/dms-wallpaper-shuffler/refs/heads/main/screenshot.png",
       "version": "1.0.2"
     },
-    "path": "/nix/store/35gxklc7jl87vbd0wikhqqc5dbds9f64-dms-wallpaper-shuffler",
-    "rev": "8acdaf1aad2bbd3425fdd57e215fca295b80cbdd",
+    "path": "/nix/store/dqv85hvra7ild8sbzrzbjf8kv68fv26v-dms-wallpaper-shuffler",
+    "rev": "8c6758cb1bb91ef226b070d859bedd5c4b2ce9d0",
     "rootDir": "",
-    "sha256": "183s3n5sfiawnnd3h0fxiyp95divnfhww0ramn1scgh1byh4bswl",
+    "sha256": "02kygwc227naa6cngr1k8kfklpdh73b4jafkxdx4rz06fddvs0ck",
     "url": "https://github.com/Daniel-42-z/dms-wallpaper-shuffler"
   },
   "webSearch": {
