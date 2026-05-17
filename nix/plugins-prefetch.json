@@ -3560,12 +3560,12 @@
     "url": "https://github.com/TEJASJONDHALE/dms-nvidia-gpu-monitor"
   },
   "pkgUpdate": {
-    "date": "2026-04-19T20:57:08-04:00",
+    "date": "2026-05-16T13:30:54-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-lVGX3QZzqA/VWGduueUO/PMT3b2t8dvQJHRtIUb4wKY=",
+    "hash": "sha256-CMVho6V6jvJUXhipEZWBl0BzBrPupA5putMRSgNYZvQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "rahulmysore23",
@@ -3587,12 +3587,12 @@
       "name": "Package Updates",
       "repo": "https://github.com/rahulmysore23/dms-pkg-update",
       "screenshot": "https://raw.githubusercontent.com/rahulmysore23/dms-pkg-update/main/screenshot.png",
-      "version": "1.0.2"
+      "version": "1.0.4"
     },
-    "path": "/nix/store/k9lvmykjf345skkg3x9n97kfj41fakyv-dms-pkg-update",
-    "rev": "5fa0bda22553da46f907ba8ba647c34337b41dca",
+    "path": "/nix/store/2qh11g1rlcivwl4xn35id3qjdpyp9vk6-dms-pkg-update",
+    "rev": "62251089fe7ede410aaa6db1b54f3f625a7264d6",
     "rootDir": "",
-    "sha256": "19n0z1322vbl4k8dpwddppfi7wzw1vjvjvk7b3ahza3k0vfrflcm",
+    "sha256": "1x36b01ll4fkp9lhx97fnc376h4ph6ai3a8qbrag53kslnin3i88",
     "url": "https://github.com/rahulmysore23/dms-pkg-update"
   },
   "polyglot": {
