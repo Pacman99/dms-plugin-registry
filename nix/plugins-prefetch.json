@@ -2404,12 +2404,12 @@
     "url": "https://github.com/Incognitux/dms-format-color-picker"
   },
   "fullscreenPowerMenu": {
-    "date": "2026-05-10T17:29:32+05:30",
+    "date": "2026-05-31T02:02:54+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-xiImowsZMolKoTeS6x+o2YBhhZtEDn5bpCVk/y9+Qxk=",
+    "hash": "sha256-9Ten8FsLPEziot7Ww/BiSvxWE+4XJ23va96ZT4diOyI=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2441,12 +2441,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-Fullscreen_Power_Menu/refs/heads/main/assets/Main_UI.png",
       "settings": "./PowerMenuSettings.qml",
       "type": "daemon",
-      "version": "1.0.5"
+      "version": "1.0.6"
     },
-    "path": "/nix/store/0k7niw48wffhpm8j6f6ybg6grqav5wsi-DMS-Fullscreen_Power_Menu",
-    "rev": "a4447e824472abf5c63b8a3511b4da823072f076",
+    "path": "/nix/store/pka9d4g4h9v8w7zifdjcj64bm5dilzmd-DMS-Fullscreen_Power_Menu",
+    "rev": "c840e9375cef65d2e0de4f0d122dfedc2c69fd6a",
     "rootDir": "",
-    "sha256": "06a3gqpzyr15lidpw3j4kf2n306rm0gyp4ipl558jchr1fijc8n6",
+    "sha256": "08ivca3lz6fydgpns9qpxq9mdz2acbqc7mnylbi4qg0bbgqafdzm",
     "url": "https://github.com/JDKamalakar/DMS-Fullscreen_Power_Menu"
   },
   "gameControllerBattery": {
