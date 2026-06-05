@@ -2976,12 +2976,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-05-31T17:43:39+05:30",
+    "date": "2026-06-05T00:58:55+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Q084fWMWWxl8UzG0peexx72pp1wzPtEXEK5CC0MpEyk=",
+    "hash": "sha256-ji0DTRqxTAi5BSOh0hAb5CvpELbGjiAHIxvdTg8C0EM=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -3014,12 +3014,12 @@
       "screenshot": "https://raw.githubusercontent.com/JDKamalakar/DMS-LiveChart.me/refs/heads/main/assets/POP-Up_UI.png",
       "settings": "./LiveChartSettings.qml",
       "type": "widget",
-      "version": "1.1.5"
+      "version": "1.1.6"
     },
-    "path": "/nix/store/h672ajb2yr7ki733j6dmc682pqpd1j1g-DMS-LiveChart.me",
-    "rev": "47111b8b67a657963f7b780fefd8c784f5721755",
+    "path": "/nix/store/52npk330d6zs4jyjqsfrznw6gx2lvl6b-DMS-LiveChart.me",
+    "rev": "e2fc5a519ec142c1daa53bf577b8c20731fb6263",
     "rootDir": "",
-    "sha256": "0a8k551hnhmf20bx2gikbjkskgf7n7ksbd1iady1jnqncdykhks3",
+    "sha256": "0hyh087lxp8v4c3j13n6nq8fjaz43c8d58930nwhhk5i396h6bcf",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "lyricsOnPanel": {
