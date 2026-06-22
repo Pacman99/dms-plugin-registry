@@ -4422,12 +4422,12 @@
     "url": "https://github.com/kerojiang/dms-transBin"
   },
   "unifiedTaskbar": {
-    "date": "2026-06-17T02:22:35-04:00",
+    "date": "2026-06-20T22:58:11-04:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-I/rnqJKlfKETCQaPQoN+H4m9FzgHlhMIFFqdRnWEd00=",
+    "hash": "sha256-vvjDdX0F0R9zD20Ii/Tw6Gh0Or+JlwtPQMN8tMXCxUQ=",
     "leaveDotGit": false,
     "meta": {
       "author": "Joshua Landau",
@@ -4449,10 +4449,10 @@
       "screenshot": "https://raw.githubusercontent.com/jslandau/dms-unified-taskbar/master/screenshot.png",
       "version": "1.1.1"
     },
-    "path": "/nix/store/i5sg2fkxqp6x75b3risyc8510l87yfzp-dms-unified-taskbar",
-    "rev": "352c3aa876a283605c035469143430435e6fdbb1",
+    "path": "/nix/store/xzclq840rq5wx5b6vwykbz7sa7bb5ipa-dms-unified-taskbar",
+    "rev": "0dd45d5c6b3f217594a2bd361527efae71b78378",
     "rootDir": "",
-    "sha256": "0kbphisld7as2h4175h770bvv28zgs1l53q6149s2z55jalfgyi3",
+    "sha256": "0i65qb2v8z63817hp5w9pwx78s78y3s8n23d1xrizl85gmsw7y5y",
     "url": "https://github.com/jslandau/dms-unified-taskbar"
   },
   "usbManager": {
