@@ -4242,12 +4242,12 @@
     "url": "https://github.com/cglavin50/dms-tailscale"
   },
   "tasks": {
-    "date": "2026-05-25T17:59:02+05:30",
+    "date": "2026-07-05T13:03:35+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-Mpt9jU/eVI4nkHnaXwFDrueW+i9MG4YflNt3B6yhZQk=",
+    "hash": "sha256-foogvVcO89hUiZ78RpCpaRFXSzxy6V3mI4BIEoI3lso=",
     "leaveDotGit": false,
     "meta": {
       "author": "Yasiru Dharmathilaka",
@@ -4270,12 +4270,12 @@
       "name": "Tasks",
       "repo": "https://github.com/AyoItsYas/dms-tasks",
       "screenshot": "https://raw.githubusercontent.com/AyoItsYas/dms-tasks/refs/heads/main/screenshot.png",
-      "version": "1.1.2"
+      "version": "1.1.5"
     },
-    "path": "/nix/store/aa2z2201pcgqjl1hlfifz57cdwn0a4ai-dms-tasks",
-    "rev": "d58822c5e307e92e5ca91dc4d609aff463ea2afb",
+    "path": "/nix/store/zl8a03q212q4rbzhirb3hwbi96796pms-dms-tasks",
+    "rev": "da212be5e329053a9a1e77b3826221674c6bbe77",
     "rootDir": "",
-    "sha256": "02b5l6n0fxyvjhgqc6sc5zx9drxf8c0mznkrj0kqwm6y9y6pv6rj",
+    "sha256": "1jln6y114j404gk5vsbj7i5mf4b9m684dz4yi5adiwqfayyj12ky",
     "url": "https://github.com/AyoItsYas/dms-tasks"
   },
   "taskwarrior": {
