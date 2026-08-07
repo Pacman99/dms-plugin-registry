@@ -1727,12 +1727,12 @@
     "url": "https://github.com/xxyangyoulin/dms-plugin-developer-utilities"
   },
   "discordVoice": {
-    "date": "2026-07-25T09:13:50-07:00",
+    "date": "2026-08-06T08:55:36-07:00",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-OO07903YGwE26kj1LRItdRvstCmxRdxQ85zyjaq7BSU=",
+    "hash": "sha256-AMAIIAaeeoEqd6AKjdoDo8z9pYlohGmKy5OhbjllxYc=",
     "leaveDotGit": false,
     "meta": {
       "author": "PandorasFox",
@@ -1756,12 +1756,12 @@
       "name": "Discord Voice Widget",
       "repo": "https://github.com/PandorasFox/dms-discord-widget",
       "screenshot": "https://raw.githubusercontent.com/PandorasFox/dms-discord-widget/master/screenshot.png",
-      "version": "1.2.0"
+      "version": "1.2.1"
     },
-    "path": "/nix/store/ags83c327jnmgksxfng3cwmv4j5s9qk9-dms-discord-widget",
-    "rev": "ae0d695205d953e6fe5cb3a408f58cd77f706717",
+    "path": "/nix/store/33lpy0rxpahxvg0mrn3jk398sa2l1vfb-dms-discord-widget",
+    "rev": "937e33a6c362546fa0a0e8546ff565b3f0945e0b",
     "rootDir": "",
-    "sha256": "0985pfm8vwlwyd8dqidi56sfq6vm5l92vxa8x8v026yq9pvkpv9q",
+    "sha256": "11y5clwnx8ckrf56k138i6jzvk530gd8s2m0fwm82yly0qh0ih00",
     "url": "https://github.com/PandorasFox/dms-discord-widget"
   },
   "displayManager": {
