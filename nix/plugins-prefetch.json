@@ -2018,12 +2018,12 @@
     "url": "https://github.com/LouisKottmann/dms-pass"
   },
   "dmsScreenshot": {
-    "date": "2026-06-28T19:42:34+05:30",
+    "date": "2026-08-08T12:43:49+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-0wDJnlkSlXOjUHyNb2MP4kKWcJ2CC6WFWacx6aMZTu8=",
+    "hash": "sha256-TjX+mcEdbl///VGCkjD2Cve17SBTV0PRbyEE8P0WbI4=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2057,10 +2057,10 @@
       "type": "widget",
       "version": "1.5.3"
     },
-    "path": "/nix/store/c8qg1jz582ikg3l9dvnjxy4pz0h1akj7-DMS-Screenshot",
-    "rev": "8e36e28f09b50350a4ba8ea4412c52870eb01a13",
+    "path": "/nix/store/hbhgk201x2m3fgn83n0fp0rhr1kfnbrd-DMS-Screenshot",
+    "rev": "663eecc48d8532143c5995148aa561122d6bfd7e",
     "rootDir": "",
-    "sha256": "1vsf36iyjcd7b62sa2w2kmq9chp21xinz3bwa2ip758jb6gcj06k",
+    "sha256": "13kc2vyz0111dz8l6msk43nvbxqayqq950jizpzmyvhxq6czwdaf",
     "url": "https://github.com/JDKamalakar/DMS-Screenshot"
   },
   "dmsSessionizer": {
@@ -2404,12 +2404,12 @@
     "url": "https://github.com/Incognitux/dms-format-color-picker"
   },
   "fullscreenPowerMenu": {
-    "date": "2026-06-28T18:34:51+05:30",
+    "date": "2026-08-08T12:30:16+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-mNpgCkVFk4ijOov8sFqe4ZcIn9/Ek22ZdZapYgeqMYA=",
+    "hash": "sha256-KE7qCXkDw1n4WMFaxqdvqf2nO7dodG6cQNYvXxKFrwo=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -2443,10 +2443,10 @@
       "type": "daemon",
       "version": "1.1.2"
     },
-    "path": "/nix/store/vnzy279nl4491vxl9dvgbj999sp26d07-DMS-Fullscreen_Power_Menu",
-    "rev": "8cf969606202b6dc745d09311f7343108037de6a",
+    "path": "/nix/store/pan11nrcqp64irh3y8blmwfjf21zflh1-DMS-Fullscreen_Power_Menu",
+    "rev": "b474d69cff7564ea4999a9f78ce30027fbac07d2",
     "rootDir": "",
-    "sha256": "101im83n5acnfncnv4y4vyghi5z1krdb1z4b7aiqi4s58l561nlq",
+    "sha256": "02mghl95ybyn82f6wx38nwxsgzd9dykwcnn1b3w5khq3g44ylki8",
     "url": "https://github.com/JDKamalakar/DMS-Fullscreen_Power_Menu"
   },
   "gameControllerBattery": {
@@ -2976,12 +2976,12 @@
     "url": "https://github.com/sgtaziz/dms-wallpaperengine"
   },
   "liveChartSchedule": {
-    "date": "2026-06-28T22:47:56+05:30",
+    "date": "2026-08-08T12:31:38+05:30",
     "deepClone": false,
     "fetchLFS": false,
     "fetchSubmodules": false,
     "fetchTags": false,
-    "hash": "sha256-ZqPhJVP6VOg/luPVTkuYKYCa0QJrzF1IymJhKVJl8B8=",
+    "hash": "sha256-qONJjyjS1euPHyUgEO3snsDlxkENQrX3N08d5g+c77I=",
     "leaveDotGit": false,
     "meta": {
       "author": "JDKamalakar",
@@ -3016,10 +3016,10 @@
       "type": "widget",
       "version": "1.1.7"
     },
-    "path": "/nix/store/p0hfs9hgi31smrpk663085a25jsnajqq-DMS-LiveChart.me",
-    "rev": "3b0e4ec769d013cf59d64ed66a9648a1fb357370",
+    "path": "/nix/store/dkz10rac56v791n352zvh4xkxhl20s4k-DMS-LiveChart.me",
+    "rev": "d924c66f64da93edf76319249148d7ca04ef0686",
     "rootDir": "",
-    "sha256": "07zhcm92jqb2r945vk3b0b8rm019k15lxmg3jqzyhm7sacjy38v6",
+    "sha256": "1cpgkh7yc7ag6zvvahhd873fbh4yxkni08153y7ypmfj527lkqx8",
     "url": "https://github.com/JDKamalakar/DMS-LiveChart.me"
   },
   "lyricsOnPanel": {
